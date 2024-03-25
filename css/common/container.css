@@ -1,0 +1,14 @@
+.container {
+    width: 68.75vw;
+    margin: 0 auto;
+}
+
+.slide__container{
+    position: absolute;
+    width: 68.75vw;
+    height: 100%;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    pointer-events: none;
+}
